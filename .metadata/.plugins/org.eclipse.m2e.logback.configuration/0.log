@@ -64,3 +64,4 @@ com.google.inject.ProvisionException: Unable to provision, see the following err
 2022-08-03 12:16:54,160 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\hp\eclipse-workspace\PracticeDalalStreet\src\main\resources
 2022-08-03 12:16:54,161 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-08-03 12:16:54,161 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\hp\eclipse-workspace\PracticeDalalStreet\src\test\resources
+2022-08-03 12:23:02,493 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
