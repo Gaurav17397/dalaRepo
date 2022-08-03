@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+D:\repo\dalaRepo\.metadata\.plugins\org.eclipse.jdt.core
+336716326.index
+392369035.index
+992759358.index
+2771871280.index
+2855114156.index
+649512128.index
+1167275426.index
